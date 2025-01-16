@@ -9,17 +9,12 @@ Linkedin Post Saver ("we," "our," or "us") is committed to protecting your priva
 
 We do not collect or store any personally identifiable information (PII) from users. However, our extension may access the following data strictly to perform its intended functionality:
 
-### a. Browsing Activity
-Permission Used: activeTab <br/>
-Purpose: To interact with the currently active tab and perform specific actions (e.g., extracting or modifying content) as required by the extension. <br/>
-Storage: Data from the active tab is processed locally on your device and is not transmitted to any external server.
-
-### b. Local Storage
+### a. Local Storage
 Permission Used: storage <br/>
 Purpose: To store user preferences, settings, or other non-personal data locally on your device. <br/>
 Storage: Data is kept only on your device and not shared externally.
 
-### c. Website Interaction
+### b. Website Interaction
 Permission Used: host_permissions <br/>
 Purpose: To interact with specific websites you grant permission for, as declared in the extension's manifest.json. <br/>
 Storage: Any interaction with these websites is processed locally and not transmitted to any external server.
